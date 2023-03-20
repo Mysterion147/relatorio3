@@ -1,0 +1,329 @@
+[
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae7462443ba"
+        },
+        "id": 289,
+        "name": {
+            "english": "Slaking",
+            "japanese": "\u30b1\u30c3\u30ad\u30f3\u30b0",
+            "chinese": "\u8bf7\u5047\u738b",
+            "french": "Monafl\u00e8mit"
+        },
+        "type": [
+            "Normal"
+        ],
+        "base": {
+            "HP": 150,
+            "Attack": 160,
+            "Defense": 100,
+            "Sp. Attack": 95,
+            "Sp. Defense": 65,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae746244418"
+        },
+        "id": 383,
+        "name": {
+            "english": "Groudon",
+            "japanese": "\u30b0\u30e9\u30fc\u30c9\u30f3",
+            "chinese": "\u56fa\u62c9\u591a",
+            "french": "Groudon"
+        },
+        "type": [
+            "Ground"
+        ],
+        "base": {
+            "HP": 100,
+            "Attack": 150,
+            "Defense": 140,
+            "Sp. Attack": 100,
+            "Sp. Defense": 90,
+            "Speed": 90
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae746244419"
+        },
+        "id": 384,
+        "name": {
+            "english": "Rayquaza",
+            "japanese": "\u30ec\u30c3\u30af\u30a6\u30b6",
+            "chinese": "\u70c8\u7a7a\u5750",
+            "french": "Rayquaza"
+        },
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "base": {
+            "HP": 105,
+            "Attack": 150,
+            "Defense": 90,
+            "Sp. Attack": 150,
+            "Sp. Defense": 90,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae74624441b"
+        },
+        "id": 386,
+        "name": {
+            "english": "Deoxys",
+            "japanese": "\u30c7\u30aa\u30ad\u30b7\u30b9",
+            "chinese": "\u4ee3\u6b27\u5947\u5e0c\u65af",
+            "french": "Deoxys"
+        },
+        "type": [
+            "Psychic"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 150,
+            "Defense": 50,
+            "Sp. Attack": 150,
+            "Sp. Defense": 50,
+            "Speed": 150
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae746244432"
+        },
+        "id": 409,
+        "name": {
+            "english": "Rampardos",
+            "japanese": "\u30e9\u30e0\u30d1\u30eb\u30c9",
+            "chinese": "\u6218\u69cc\u9f99",
+            "french": "Charkos"
+        },
+        "type": [
+            "Rock"
+        ],
+        "base": {
+            "HP": 97,
+            "Attack": 165,
+            "Defense": 60,
+            "Sp. Attack": 65,
+            "Sp. Defense": 50,
+            "Speed": 58
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae746244469"
+        },
+        "id": 464,
+        "name": {
+            "english": "Rhyperior",
+            "japanese": "\u30c9\u30b5\u30a4\u30c9\u30f3",
+            "chinese": "\u8d85\u7532\u72c2\u7280",
+            "french": "Rhinastoc"
+        },
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "base": {
+            "HP": 115,
+            "Attack": 140,
+            "Defense": 130,
+            "Sp. Attack": 55,
+            "Sp. Defense": 55,
+            "Speed": 40
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae74624447f"
+        },
+        "id": 486,
+        "name": {
+            "english": "Regigigas",
+            "japanese": "\u30ec\u30b8\u30ae\u30ac\u30b9",
+            "chinese": "\u96f7\u5409\u5947\u5361\u65af",
+            "french": "Regigigas"
+        },
+        "type": [
+            "Normal"
+        ],
+        "base": {
+            "HP": 110,
+            "Attack": 160,
+            "Defense": 110,
+            "Sp. Attack": 80,
+            "Sp. Defense": 110,
+            "Speed": 100
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae7462444af"
+        },
+        "id": 534,
+        "name": {
+            "english": "Conkeldurr",
+            "japanese": "\u30ed\u30fc\u30d6\u30b7\u30f3",
+            "chinese": "\u4fee\u5efa\u8001\u5320",
+            "french": "B\u00e9tochef"
+        },
+        "type": [
+            "Fighting"
+        ],
+        "base": {
+            "HP": 105,
+            "Attack": 140,
+            "Defense": 95,
+            "Sp. Attack": 55,
+            "Sp. Defense": 65,
+            "Speed": 45
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae7462444c4"
+        },
+        "id": 555,
+        "name": {
+            "english": "Darmanitan",
+            "japanese": "\u30d2\u30d2\u30c0\u30eb\u30de",
+            "chinese": "\u8fbe\u6469\u72d2\u72d2",
+            "french": "Darumacho"
+        },
+        "type": [
+            "Fire"
+        ],
+        "base": {
+            "HP": 105,
+            "Attack": 140,
+            "Defense": 55,
+            "Sp. Attack": 30,
+            "Sp. Defense": 55,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae7462444d0"
+        },
+        "id": 567,
+        "name": {
+            "english": "Archeops",
+            "japanese": "\u30a2\u30fc\u30b1\u30aa\u30b9",
+            "chinese": "\u59cb\u7956\u5927\u9e1f",
+            "french": "A\u00e9ropt\u00e9ryx"
+        },
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 140,
+            "Defense": 65,
+            "Sp. Attack": 112,
+            "Sp. Defense": 65,
+            "Speed": 110
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae7462444fd"
+        },
+        "id": 612,
+        "name": {
+            "english": "Haxorus",
+            "japanese": "\u30aa\u30ce\u30ce\u30af\u30b9",
+            "chinese": "\u53cc\u65a7\u6218\u9f99",
+            "french": "Tranchodon"
+        },
+        "type": [
+            "Dragon"
+        ],
+        "base": {
+            "HP": 76,
+            "Attack": 147,
+            "Defense": 90,
+            "Sp. Attack": 60,
+            "Sp. Defense": 70,
+            "Speed": 97
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae74624451d"
+        },
+        "id": 644,
+        "name": {
+            "english": "Zekrom",
+            "japanese": "\u30bc\u30af\u30ed\u30e0",
+            "chinese": "\u6377\u514b\u7f57\u59c6",
+            "french": "Zekrom"
+        },
+        "type": [
+            "Dragon",
+            "Electric"
+        ],
+        "base": {
+            "HP": 100,
+            "Attack": 150,
+            "Defense": 120,
+            "Sp. Attack": 120,
+            "Sp. Defense": 100,
+            "Speed": 90
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae7462445b7"
+        },
+        "id": 798,
+        "name": {
+            "english": "Kartana",
+            "japanese": "\u30ab\u30df\u30c4\u30eb\u30ae",
+            "chinese": "\u7eb8\u5fa1\u5251",
+            "french": "Engloutyran"
+        },
+        "type": [
+            "Grass",
+            "Steel"
+        ],
+        "base": {
+            "HP": 59,
+            "Attack": 181,
+            "Defense": 131,
+            "Sp. Attack": 59,
+            "Sp. Defense": 31,
+            "Speed": 109
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6417a05b2a916ae7462445c2"
+        },
+        "id": 809,
+        "name": {
+            "english": "Melmetal",
+            "japanese": "\u30e1\u30eb\u30e1\u30bf\u30eb",
+            "chinese": "\u7f8e\u5f55\u6885\u5854",
+            "french": ""
+        },
+        "type": [
+            "Steel"
+        ],
+        "base": {
+            "HP": 135,
+            "Attack": 143,
+            "Defense": 143,
+            "Sp. Attack": 80,
+            "Sp. Defense": 65,
+            "Speed": 34
+        }
+    }
+]

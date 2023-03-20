@@ -1,0 +1,25 @@
+[
+    {
+        "_id": {
+            "$oid": "6417a9de7980154f0712a3d1"
+        },
+        "id": 151,
+        "name": {
+            "english": "Mew",
+            "japanese": "\u30df\u30e5\u30a6",
+            "chinese": "\u68a6\u5e7b",
+            "french": "Mew"
+        },
+        "type": [
+            "Psychic"
+        ],
+        "base": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Sp. Attack": 100,
+            "Sp. Defense": 100,
+            "Speed": 100
+        }
+    }
+]
